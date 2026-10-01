@@ -113,7 +113,7 @@ st.markdown(
     """
     <div class="hero">
       <div class="eyebrow">Economic data · 2015–2025</div>
-      <h1>India Economic Monitor</h1>
+      <h1>Indian Economy Analytics</h1>
       <p>Sector output, trade, employment and growth across quarterly observations.</p>
     </div>
     """,
